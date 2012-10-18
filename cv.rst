@@ -7,7 +7,7 @@ Blog: http://yourblog.com
 Code: http://github.com/username
 
 
-Tel: :literal:`000 1234 567`
+Tel: 000 1234 567
 
 Email: username@email.com
 

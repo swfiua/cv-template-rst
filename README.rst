@@ -9,10 +9,7 @@ Requirements
 
 * Python - http://python.org/download/
 * rst2pdf - http://rst2pdf.ralsina.com.ar/
-* Fonts
-  
-  The regular variants of PT Sans, Serif and Monospace fonts available from
-  http://www.paratype.com/public/
+  use package manager or ``pip install rst2pdf`` or ``easy_install rst2pdf``
   
 How to generate the PDF
 -----------------------

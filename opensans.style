@@ -1,0 +1,16 @@
+{
+    "embeddedFonts": [
+        [
+            "OpenSans-Regular.ttf", 
+            "OpenSans-Light.ttf", 
+            "OpenSans-Italic.ttf", 
+            "OpenSans-LightItalic.ttf"
+        ]
+    ], 
+    "fontsAlias": {
+        "stdBold": "OpenSans-Light", 
+        "stdBoldItalic": "OpenSans-LightItalic", 
+        "stdFont": "OpenSans-Regular", 
+        "stdItalic": "OpenSans-Italic"
+    }
+}
