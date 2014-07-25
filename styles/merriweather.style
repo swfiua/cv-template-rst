@@ -1,0 +1,16 @@
+{
+  "embeddedFonts": [
+    [
+      "Merriweather-Light.ttf",
+      "Merriweather-Regular.ttf",
+      "Merriweather-LightItalic.ttf",
+      "Merriweather-Italic.ttf"
+    ]
+  ],
+  "fontsAlias": {
+    "stdBold": "Merriweather :style=Regular",
+    "stdBoldItalic": "Merriweather :style=Italic",
+    "stdFont": "Merriweather :style=Light",
+    "stdItalic": "Merriweather :style=LightItalic"
+  }
+}
