@@ -1,110 +1,119 @@
-=====================
-Vimalkumar Velayudhan
-=====================
-------------------------------------------------------------
-Software and Web Developer with System Administration skills
-------------------------------------------------------------
-Ireland. vimalkumarvelayudhan@gmail.com.
-`http://github.com/vkvn <http://github.com/vkvn>`_
+=========================
+John Nicholas Soutar Gill
+=========================
+-----------------------------------------
+Software architect, risk and data analyst
+-----------------------------------------
+Bermuda. swfiua@gmail.com.
 
 ----
 
 Technical Skills
 ----------------
 **Python**
-    Web application development using Flask (`scienceformat`_), Jinja2 templates, GUI development using PyQt (`ITQuery <http://vkvn.github.io/bionumerics_scripts/html/itquery.html>`_ and `ITCrispr <http://2vkvn.com/bionumerics_scripts/html/itcrispr.html>`_). Automation using Fabric (`example <https://coderwall.com/p/hgaxsq>`_). Zope 2, PyCharm IDE, `PyPI <https://pypi.python.org/pypi/solar-theme/1.3.2>`_. Virtualenv and virutalenvwrapper.
-    
-**Databases and SQL**
-    Relational Database design, Use of ORM (SQLAlchemy). Alembic database migrations. Database administration - previleges, user administration, backup/restore, master-slave replication of Postgres using Slony1. Connections using ODBC.
+    14 years python experience on both Linux and Windows platforms.  Speaker at PyCon North America on two occasions.  
+    Familiar with a wide range of scientific and web development packages and seamless integration with other
+    languages.
 
-**Node**
-    Familiar with the usage of NodeJs, NPM, Grunt. Developed a `plugin <https://www.npmjs.org/package/ep_insert_text>`_ for etherpad-lite to insert text from an external JSON source.
+**.NET/C#**
+    Solid understanding of C# and the .NET platform.  Good understanding of running .NET code under mono on the linux platform.
 
-**Web Development and Design**
-    HTML, CSS, Twitter bootstrap customization (`1 <http://scienceformat.com>`_, `2 <http://2vkvn.com>`_), LESS, JSON, JSONP, XML, Ajax calls
-    JavaScript, jQuery and plugins (ex. selectize.js). Webfonts and use of icon fonts. Media queries.
-    Knowledge of Gimp, Inkscape, Pencil for creating `images and mockups <http://www.pinterest.com/vkvn/design-by-vkvn/>`_.
-    
-**Mobile**    
-    Building apps using AngularJS/Ionic framework (`PlanOnce <https://play.google.com/store/apps/details?id=com.vimalkumar.planonce>`_) and 
-    Sencha touch ExtJs (`Citebot <https://play.google.com/store/apps/details?id=com.vimalkumar.citebot>`_). Cordova/PhoneGap integration for additional features.
-    
+**C/C++**
+    25 years experience of C programming on platforms from micro computers to Cray super-computers.
+
+**Other Languages**
+    Perl, TCL, lisp, Fortran, IMP, Visual Basic, Algol, 8086 assembler, datalog, SQL, lua, javascript, HTML, CSS. 
+
+**Parallel computing**
+    30 years experience of super-computing.  Solid knowledge of parallel computing, distributed file systems and distributed database technology.
+
+    Experience of programming custom build special purpose computers.
+
 **Version control**
-    Git and github usage. `Deploying websites using git <https://leanpub.com/diyhostblog>`_. 
+    Git and github usage.  Familiar with Bazaar, Mercurial, SVN, CVS, RCS and SCCS.
 
-**Other**
-    `Payment processing integration using stripe <https://scienceformat.com/plans>`_, Integrating share feature, ads in mobile web applications (`Citebot <https://play.google.com/store/apps/details?id=com.vimalkumar.citebot>`_). Knowledge of Markdown, reStructuredText, pandoc. Amazon EC2/DigitalOcean server setup and hosting. Blogging using Pelican, Ghost. ColdFusion - development and debugging (basic).
+**Test Driven Development**
+    Proficient in use of test frameworks including use of mock objects and build automation using tools such as teamcity. 
 
-**Operating systems**
-    Linux installation, user/group management, Partitioning and LVM management, Sharing file system using NFS, LDAP, Samba, FTP, SSH server configuration, Firewall configuration (iptables), Apache configuration including virtualhosts, SSL configuration, Tape backups. Building ISO's and RPM packages. Familiar with SLES, Arch Linux, Debian/Ubuntu, Centos, Redhat/Fedora distributions. High availability clustering using Novell cluster services (2-node). Nagios monitoring setup. Postfix configuration for email delivery.
+**Cryptography and computer security**
+    A strong interest and deep working knowledge in all aspects of cryptography, including public key cryptography.  
+    Good understanding of cyber risk and state of the art web protocols.  Interest in distributed systems using blockchain technology.
+    Excellent understanding of issues around privacy, identity management and security in today's cloud based computing environment.
+
+**Mobile**
+    Interest in mobile apps, including writing python geolocation software on Nokia Series 60 phones.    
     
-    Windows Server - Active directory, DNS, VPN (PPTP), Terminal services, Windows XP/7.
+**Operating systems**
+    20 years experience using RedHat, Debian and Ubuntu Linux.
+
+    Linux installation, user/group management, Partitioning and LVM
+    management, Sharing file system using NFS, LDAP, Samba, FTP, SSH
+    server configuration, Firewall configuration (iptables), Apache
+    configuration including virtualhosts, SSL configuration, Tape
+    backups. Building ISO's and RPM packages. Familiar with SLES, Arch
+    Linux, Debian/Ubuntu, Centos, Redhat/Fedora distributions.
+    Clustering using IPython cluster as well as map/reduce concepts.
+  
+    Proficient in use of windows and 17 years experience integrating Windows and Linux.
+
+    FOLKLORE operating system used in the signals intelligence community in the 1980's.
+
+Management Skills
+-----------------
 
 
+ 
 Experience
 ----------
-Current: Developer, scienceformat
-.................................
-`scienceformat`_ is a manuscript preparation and bibliography management service for Science. 
+March 2013 - current: Risk Solutions Architect, Tokio Millennium Re
+......................................................
 
-Mar - May 2014: Web developer, Teamwork.com
-...........................................
-Implemented the first version of a feature for `importing tasks and task lists from Microsoft Excel <http://www.teamwork.com/blog/excel-import-option-tasks/>`_ files.
+Design and build next generation risk systems for Tokio Millennium.
+This involves migrating from existing monolithic .NET systems to more
+flexible, component based architecture capable of running on a
+heterogeneous cluster of cross-platform computers.
 
-2007 - 2012: Research Program Manager
-.....................................
-Mark Achtman Group, Environmental Research Institute, UCC, Cork, Ireland.
+July 2008 - August 2012, Consultant to Renaissance
+..................................................
+Self-employed consultant working on a variety of risk analysis and software development projects.
 
-Developed an API in Python for allowing public access to data. Designed administration interfaces in HTML for updating tables and adding/removing columns.
+February 2000 - July 2008, Vice President, Risk Analysis
+........................................................
 
-Developed graphical user interfaces in Python and Qt for visualizing and managing data in LIMS systems and `BioNumerics <http://www.applied-maths.com/bionumerics>`_.
+Design and build Renaissance's risk and portfolio analysis tools.
+Responsible for all aspects of the software development lifecycle.
 
-Maintained and continued development of a Python Zope 2 website (http://mlst.ucc.ie) for MLST data submission. Assisted registered users (~1000) with queries relating to data submission and curation.
+Assist with development and implementation of new models.
 
-Administered database servers and managed databases. Setup master-slave replication of a Postgres database for development and backup purposes.
+May 1997 - February 2000, CCS Group.
+------------------------------------
 
-System administration of 5 servers (4 Linux, 1 Windows), 20 Windows workstations and a 3 Terabyte Fibre-channel connected SAN. 
+Senior consultant working at Renaissance Reinsurance.
 
-Setup integrated authentication of the entire network of Linux, Windows server and clients.
+Responsible for design and development of REMS risk analysis systems.
 
-Novell network administration - LDAP, iFolder file synchronization and cluster services.
+October 1984 - May 1997, Senior Scientic Officer, GCHQ, Cheltenham
+..................................................................
 
-2005 - 2007: Faculty in Bioinformatics
-......................................
-Jain Institute of Vocational and Advanced Studies, Bangalore, India.
+Working on communications security for the British Government.
 
-Setup a network of 10 Linux computers, an e-learning coursework using Moodle and conducted tests using a PHP based test software.
+1993-1996 on secondment to the Communications Security Establishment, Canada.
 
-Developed a PHP based software for simple Lineweaver-Burke plots (`biograph <http://sourceforge.net/projects/biograph/>`_).
-
-2004 - 2005: Private Instructor
-...............................
-National Biotechnology Entrance Examination, Coimbatore, India.
-
-2002 - 2004: Lecturer in Biotechnology
-......................................
-PSG College of Arts and Science, Coimbatore, India.
-
-
-Publications
-------------
-#. O’Farrell B, Haase JK, Velayudhan V, Murphy RA, Achtman M (2012) `Transforming Microbial Genotyping: A Robotic Pipeline for Genotyping Bacterial Strains <http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0048022>`_. PLoS ONE 7(10): e48022.
-#. eBook - `DIY: Host Your Statically Generated Blog In The Cloud <https://leanpub.com/diyhostblog/>`_, *a step-by-step guide*
-
-Conferences
------------
-* PyCon Ireland 2011: Delivered a tutorial on `beginning GUI design using PyQt <http://2vkvn.com/blog/2011/10/10/beginning-pyqt-tutorial-pycon-ireland-2011-slides-and-code/>`_.
-* PyCon Ireland 2010 - participant.
 
 Education
 ---------
-1999 - 2001: Master of Science, Biotechnology
-.............................................
-Madurai Kamaraj University, India.
+1987 - 1990: Sheffield Business School
+......................................
 
+1989 Post-graduate Diploma (with distinction) in Operational Research.
+
+1990 M.Sc. in Operational Research.
+
+1981 - 1984, University of Warwick
+..................................
+
+B.Sc. class one in Mathematics.
 
 References on request
 ---------------------
 
-.. links
-.. _scienceformat: http://scienceformat.com
