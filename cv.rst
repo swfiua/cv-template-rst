@@ -102,29 +102,29 @@ Ability to work well in a collaborative environment.  Took the lead in
 introducing collaboration  tools such  as intranet, wikis,  group chat
 and blogs.
  
-Experience
-----------
+Career History
+--------------
 March 2013 - current: Risk Solutions Architect, Tokio Millennium Re
 ......................................................
 
-Design and build next generation risk systems for Tokio Millennium.
+Designed and built next generation risk systems for Tokio Millennium.
 This involves migrating from existing monolithic .NET systems to more
 flexible, component based architecture capable of running on a
 heterogeneous cluster of cross-platform computers.
 
-July 2008 - August 2012, Consultant to Renaissance
-..................................................
+July 2008 - August 2012, Exclusive Consultant to Renaissance Reinsurance
+........................................................................
 Self-employed consultant working on a variety of risk analysis and software development projects.
 
 February 2000 - July 2008, Vice President, Renaissance Reinsurance, Risk Analysis
 .................................................................................
 
-Design and build Renaissance's risk and portfolio analysis tools.
+Designed and built Renaissance's risk and portfolio analysis tools.
 Responsible for all aspects of the software development lifecycle.
 Assist with development and implementation of new models.
 
 May 1997 - February 2000, CCS Group.
-------------------------------------
+....................................
 
 Senior consultant working at Renaissance Reinsurance.
 
