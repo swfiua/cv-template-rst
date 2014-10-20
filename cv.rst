@@ -104,10 +104,11 @@ and blogs.
  
 Career History
 --------------
-March 2013 - current: Risk Solutions Architect, Tokio Millennium Re
-......................................................
 
-Designed and built next generation risk systems for Tokio Millennium.
+March 2013 - current: Risk Solutions Architect, Tokio Millennium Re
+...................................................................
+
+Designed and built next generation risk systems for Tokio Millennium Re.
 This involves migrating from existing monolithic .NET systems to more
 flexible, component based architecture capable of running on a
 heterogeneous cluster of cross-platform computers.
@@ -130,8 +131,8 @@ Senior consultant working at Renaissance Reinsurance.
 
 Responsible for design and development of REMS risk analysis systems.
 
-October 1984 - May 1997, Senior Scientic Officer, GCHQ, Cheltenham
-..................................................................
+October 1984 - May 1997, Senior Scientific Officer, GCHQ, Cheltenham
+....................................................................
 
 Working on communications security for the British Government.
 
