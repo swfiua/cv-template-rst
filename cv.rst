@@ -1,9 +1,9 @@
 =========================
 John Nicholas Soutar Gill
 =========================
------------------------------------------
-Software architect, risk and data analyst
------------------------------------------
+------------------------------------------
+Software architect and risk problem solver
+------------------------------------------
 15 Lighthouse Road,
 Southampton, SN02,
 Bermuda. 
