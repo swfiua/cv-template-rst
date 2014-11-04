@@ -8,7 +8,7 @@ Software architect and risk problem solver
 Southampton, SN02,
 Bermuda. 
 
-tel: +1 441 705 5724
+tel: +1 441 777 2106
 
 swfiua@gmail.com.
 
@@ -57,7 +57,7 @@ Technical Skills
 
     Excellent understanding of issues around privacy, identity management and security in today's cloud based computing environment.
 
-    Good appreciation of the importance of user interfaces affecting computer security.  
+    Good appreciation of the importance of user interfaces with respect to computer security.  
 
     Understanding of the many issues and weaknesses with current best practice in computer security.
 
