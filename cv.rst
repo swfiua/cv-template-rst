@@ -1,9 +1,9 @@
 =========================
 John Nicholas Soutar Gill
 =========================
-------------------------------------------
-Software architect and risk problem solver
-------------------------------------------
+-------------------------------------
+Software architect and problem solver
+-------------------------------------
 15 Lighthouse Road,
 Southampton, SN02,
 Bermuda. 
@@ -21,11 +21,11 @@ Technical Skills
     Familiar with a wide range of scientific and web development packages and seamless integration with other
     languages.
 
-**.NET/C#**
-    Solid understanding of C# and the .NET platform.  Good understanding of running .NET code under mono on the linux platform.
-
 **C/C++**
     25 years experience of C programming on platforms from micro computers to Cray super-computers.
+
+**.NET/C#**
+    Solid understanding of C# and the .NET platform.  Good understanding of running .NET code under mono on the linux platform.
 
 **Other Languages**
     Perl, TCL, lisp, Fortran, IMP, Visual Basic, Algol, 8086 assembler, datalog, SQL, lua, javascript, HTML, CSS. 
@@ -169,6 +169,7 @@ Involvement in open source communities over a period of 25 years, including:
 * Ottawa Linux Users Group
 * Python and PyCon
 * Open Bermuda
+* Technology Leadership Forum, Bermuda
 
 
 References on request
